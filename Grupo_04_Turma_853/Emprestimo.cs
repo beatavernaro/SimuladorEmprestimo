@@ -65,6 +65,7 @@ namespace Grupo_04_Turma_853
 
         public void CalculaTotalDivida()
         {
+            //first
             this.valorTotalDivida = this.valorParcela * this.parcelaSelecionada;
             //Console.WriteLine("Total divida: " + this.valorTotalDivida.ToString("C"));
         }
